@@ -1,0 +1,20 @@
+{
+    "name": "bmt/assoc-array",
+    "description": "Represents an associative array with string keys.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bmt\\AssocArray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Taha",
+            "email": "info@mohammedtaha.net"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "stable"
+}
